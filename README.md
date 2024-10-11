@@ -6,6 +6,13 @@ This project provides detailed business intelligence insights into the sales of 
 
 The purpose of this project is to help the business make informed decisions by visualizing key sales metrics such as revenue trends, top-performing customers, and products. The analysis was performed using both Power BI and Tableau to deliver a comprehensive and interactive dashboard.
 
+## Technologies Used
+
+- **SQL**: Used to extract and transform data from the sales database.
+- **Power BI**: For building interactive dashboards, performing detailed data analysis, and visualizing insights.
+- **Tableau**: For an alternative, more visual representation of the same data, providing flexibility for stakeholders.
+- **ETL**: Data was extracted, transformed, and loaded into Power BI and Tableau for analysis.
+
 ### ETL Process
 
 An ETL (Extract, Transform, Load) process was implemented to prepare the data for analysis:
@@ -43,12 +50,7 @@ You can find the SQL dump of the database [here](https://github.com/codebasics/D
 5. **Top 5 Products by Revenue**  
    Highlights the top 5 products that generated the most revenue.
 
-## Technologies Used
 
-- **SQL**: Used to extract and transform data from the sales database.
-- **Power BI**: For building interactive dashboards, performing detailed data analysis, and visualizing insights.
-- **Tableau**: For an alternative, more visual representation of the same data, providing flexibility for stakeholders.
-- **ETL**: Data was extracted, transformed, and loaded into Power BI and Tableau for analysis.
 
 ## Installation and Setup
 
