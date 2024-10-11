@@ -70,4 +70,5 @@ You can find the SQL dump of the database [here](https://github.com/codebasics/D
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/mmoeini/sales-insights-dashboard.git
+   git clone https://github.com//M-Moeini/BI-Dashboard.git
+   
