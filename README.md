@@ -14,10 +14,17 @@ The purpose of this project is to help the business make informed decisions by v
 - **ETL**: Data was extracted, transformed, and loaded into Power BI and Tableau for analysis.
 
 
-## Power BI Video
+## Dashboard Previews
+
+### Power BI Dashboard
+[![Power BI Dashboard Preview](https://github.com/M-Moeini/BI-Dashboard/blob/main/PowerBI/PowerBI.png)](https://github.com/M-Moeini/BI-Dashboard/issues/1)
 
 
-## Tableau Video
+
+
+### Tableau Dashboard
+[![Tableau Dashboard Preview](https://github.com/M-Moeini/BI-Dashboard/blob/main/Tableau/Tableau.png)](https://github.com/M-Moeini/BI-Dashboard/issues/1)
+
 
 
 
