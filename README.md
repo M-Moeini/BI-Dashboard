@@ -13,6 +13,14 @@ The purpose of this project is to help the business make informed decisions by v
 - **Tableau**: For an alternative, more visual representation of the same data, providing flexibility for stakeholders.
 - **ETL**: Data was extracted, transformed, and loaded into Power BI and Tableau for analysis.
 
+
+## Power BI Video
+
+
+## Tableau Video
+
+
+
 ### ETL Process
 
 An ETL (Extract, Transform, Load) process was implemented to prepare the data for analysis:
@@ -26,17 +34,17 @@ An ETL (Extract, Transform, Load) process was implemented to prepare the data fo
 ## Data Source
 
 The sales database contains the following information:
-- **Customers:** Customer ID, Customer Name, Contact Information
-- **Transactions:** Transaction Date, Quantity Sold, Product ID, Market ID, Customer ID
-- **Markets:** Market ID, Market Name, Market Region
-- **Products:** Product ID, Product Name, Product Category, Unit Price
+- **Customers:** Customer Code, Customer Name, Customer Type
+- **Transactions:** Order Date, Sales Quantity, Sales Amount, Product Code, Market Code, Customer Code, Currency
+- **Markets:** Market Code, Market Name
+- **Products:** Product Code, Product Type
 
 You can find the SQL dump of the database [here](https://github.com/codebasics/DataAnalysisProjects/blob/master/2_SalesInsightsTableau/db_dump.sql).
 
 ## Key Metrics and Visualizations
 
 1. **Revenue Trend by Time**  
-   Displays the total revenue generated over time (daily, weekly, or monthly) to help identify patterns and seasonality.
+   Displays the total revenue generated over time (monthly) to help identify patterns and seasonality.
 
 2. **Revenue by Market (Ascending Order)**  
    Shows revenue distribution across different markets, helping to identify which markets perform better or need improvement.
