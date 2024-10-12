@@ -22,7 +22,7 @@ The purpose of this project is to help the business make informed decisions by v
 
 
 ### Tableau Dashboard
-[![Tableau Dashboard Preview](https://github.com/M-Moeini/BI-Dashboard/blob/main/Tableau/Tableau.png)](https://github.com/M-Moeini/BI-Dashboard/issues/2)
+[![Tableau Dashboard Preview](https://github.com/M-Moeini/BI-Dashboard/blob/main/Tableau/Tableau.png)](https://github.com/M-Moeini/BI-Dashboard/issues/4)
 
 
 
