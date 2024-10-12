@@ -17,7 +17,7 @@ The purpose of this project is to help the business make informed decisions by v
 ## Dashboard Previews
 
 ### Power BI Dashboard
-[![Power BI Dashboard Preview](https://github.com/M-Moeini/BI-Dashboard/blob/main/PowerBI/PowerBI.png)](https://github.com/M-Moeini/BI-Dashboard/issues/1)
+[![Power BI Dashboard Preview](https://github.com/M-Moeini/BI-Dashboard/blob/main/PowerBI/PowerBI.png)](https://github.com/M-Moeini/BI-Dashboard/issues/3)
 
 
 
